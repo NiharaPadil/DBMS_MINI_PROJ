@@ -29,4 +29,4 @@ Before running the application, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/species-preservation-management.git
+git clone https://github.com/NiharaPadil/DBMS_MINI_PROJ.git
