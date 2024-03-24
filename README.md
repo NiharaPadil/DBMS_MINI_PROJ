@@ -22,11 +22,5 @@ Before running the application, ensure you have the following installed:
 
 - Python (version 3.6 or higher)
 - MySQL
-- Required Python packages (listed in `requirements.txt`)
+- Python packages 
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/NiharaPadil/DBMS_MINI_PROJ.git
