@@ -16,11 +16,9 @@ The Species Preservation Management System is a Streamlit web application built 
 - **Environmental Data Management:** Provides functionalities to manage environmental data related to wildlife preserves.
 - **Protected By:** Allows users to view data about species protected by conservation projects.
 
-## Prerequisites
 
-Before running the application, ensure you have the following installed:
-
-- Python (version 3.6 or higher)
-- MySQL
-- Python packages 
+## Built with
+- Python - Programming language used
+- MySQL - Database management system
+- Streamlit - Web application framework for Python
 
