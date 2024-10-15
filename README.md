@@ -1,5 +1,8 @@
 # Species Preservation Management System
 
+![image](https://github.com/user-attachments/assets/8cce697d-141e-4502-aee6-5aaec8a8ba5f)
+
+
 Welcome to the Species Preservation Management System! This project is aimed at managing various aspects of species preservation, including species data, conservation projects, wildlife preserves, observations, environmental data, and more.
 
 ## Description
@@ -21,4 +24,6 @@ The Species Preservation Management System is a Streamlit web application built 
 - Python - Programming language used
 - MySQL - Database management system
 - Streamlit - Web application framework for Python
+
+
 
