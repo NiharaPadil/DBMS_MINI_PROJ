@@ -25,7 +25,8 @@ The Species Preservation Management System is a Streamlit web application built 
 - MySQL - Database management system
 - Streamlit - Web application framework for Python
 
-### Demo Video [Youtube Link ]([https://www.youtube.com/watch?v=yQxuXCIfbu0](https://www.youtube.com/watch?v=_umW077_9z8))
+### Demo Video [Youtube Link ](https://www.youtube.com/watch?v=_umW077_9z8)
+
 
 
 
