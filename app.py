@@ -13,8 +13,8 @@ from home import display_observations, insert_observation, delete_observation, u
 db = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="NiharaPadil@02022003",
-    database="mini"
+    password="#",
+    database="#"
 )
 cursor = db.cursor()
 
