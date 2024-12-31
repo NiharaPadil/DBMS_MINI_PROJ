@@ -4,9 +4,8 @@ def establish_connection():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="#",
-        database="#"
-        
+         password="NiharaPadil@02022003",
+        database="mini"
         
     )
 
